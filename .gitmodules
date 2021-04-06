@@ -1,0 +1,135 @@
+[submodule "aws-cloudformation-resource-providers-accessanalyzer"]
+	path = aws-cloudformation-resource-providers-accessanalyzer
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-accessanalyzer
+[submodule "aws-cloudformation-resource-providers-acmpca"]
+	path = aws-cloudformation-resource-providers-acmpca
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-acmpca
+[submodule "aws-cloudformation-resource-providers-applicationinsights"]
+	path = aws-cloudformation-resource-providers-applicationinsights
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-applicationinsights
+[submodule "aws-cloudformation-resource-providers-athena"]
+	path = aws-cloudformation-resource-providers-athena
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-athena
+[submodule "aws-cloudformation-resource-providers-awsutilities-commandrunner"]
+	path = aws-cloudformation-resource-providers-awsutilities-commandrunner
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-awsutilities-commandrunner
+[submodule "aws-cloudformation-resource-providers-budgets"]
+	path = aws-cloudformation-resource-providers-budgets
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-budgets
+[submodule "aws-cloudformation-resource-providers-cloudformation"]
+	path = aws-cloudformation-resource-providers-cloudformation
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-cloudformation
+[submodule "aws-cloudformation-resource-providers-codeartifact"]
+	path = aws-cloudformation-resource-providers-codeartifact
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-codeartifact
+[submodule "aws-cloudformation-resource-providers-codeguru-profiler"]
+	path = aws-cloudformation-resource-providers-codeguru-profiler
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-codeguru-profiler
+[submodule "aws-cloudformation-resource-providers-codegurureviewer"]
+	path = aws-cloudformation-resource-providers-codegurureviewer
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-codegurureviewer
+[submodule "aws-cloudformation-resource-providers-cost-explorer"]
+	path = aws-cloudformation-resource-providers-cost-explorer
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-cost-explorer
+[submodule "aws-cloudformation-resource-providers-databrew"]
+	path = aws-cloudformation-resource-providers-databrew
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-databrew
+[submodule "aws-cloudformation-resource-providers-datasync"]
+	path = aws-cloudformation-resource-providers-datasync
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-datasync
+[submodule "aws-cloudformation-resource-providers-devops-guru"]
+	path = aws-cloudformation-resource-providers-devops-guru
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-devops-guru
+[submodule "aws-cloudformation-resource-providers-ec2-cagw"]
+	path = aws-cloudformation-resource-providers-ec2-cagw
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-ec2-cagw
+[submodule "aws-cloudformation-resource-providers-ec2-flowlog"]
+	path = aws-cloudformation-resource-providers-ec2-flowlog
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-ec2-flowlog
+[submodule "aws-cloudformation-resource-providers-ec2-lgw"]
+	path = aws-cloudformation-resource-providers-ec2-lgw
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-ec2-lgw
+[submodule "aws-cloudformation-resource-providers-ec2-ni"]
+	path = aws-cloudformation-resource-providers-ec2-ni
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-ec2-ni
+[submodule "aws-cloudformation-resource-providers-ec2-prefix-list"]
+	path = aws-cloudformation-resource-providers-ec2-prefix-list
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-ec2-prefix-list
+[submodule "aws-cloudformation-resource-providers-ecr"]
+	path = aws-cloudformation-resource-providers-ecr
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-ecr
+[submodule "aws-cloudformation-resource-providers-emrcontainers"]
+	path = aws-cloudformation-resource-providers-emrcontainers
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-emrcontainers
+[submodule "aws-cloudformation-resource-providers-eventschemas"]
+	path = aws-cloudformation-resource-providers-eventschemas
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-eventschemas
+[submodule "aws-cloudformation-resource-providers-frauddetector"]
+	path = aws-cloudformation-resource-providers-frauddetector
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-frauddetector
+[submodule "aws-cloudformation-resource-providers-globalaccelerator"]
+	path = aws-cloudformation-resource-providers-globalaccelerator
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-globalaccelerator
+[submodule "aws-cloudformation-resource-providers-glue"]
+	path = aws-cloudformation-resource-providers-glue
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-glue
+[submodule "aws-cloudformation-resource-providers-imagebuilder"]
+	path = aws-cloudformation-resource-providers-imagebuilder
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-imagebuilder
+[submodule "aws-cloudformation-resource-providers-iot"]
+	path = aws-cloudformation-resource-providers-iot
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-iot
+[submodule "aws-cloudformation-resource-providers-iotwireless"]
+	path = aws-cloudformation-resource-providers-iotwireless
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-iotwireless
+[submodule "aws-cloudformation-resource-providers-kendra"]
+	path = aws-cloudformation-resource-providers-kendra
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-kendra
+[submodule "aws-cloudformation-resource-providers-kinesisfirehose"]
+	path = aws-cloudformation-resource-providers-kinesisfirehose
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-kinesisfirehose
+[submodule "aws-cloudformation-resource-providers-kms"]
+	path = aws-cloudformation-resource-providers-kms
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-kms
+[submodule "aws-cloudformation-resource-providers-logs"]
+	path = aws-cloudformation-resource-providers-logs
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-logs
+[submodule "aws-cloudformation-resource-providers-lookoutvision"]
+	path = aws-cloudformation-resource-providers-lookoutvision
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-lookoutvision
+[submodule "aws-cloudformation-resource-providers-macie"]
+	path = aws-cloudformation-resource-providers-macie
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-macie
+[submodule "aws-cloudformation-resource-providers-networkfirewall"]
+	path = aws-cloudformation-resource-providers-networkfirewall
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-networkfirewall
+[submodule "aws-cloudformation-resource-providers-opsworkscm"]
+	path = aws-cloudformation-resource-providers-opsworkscm
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-opsworkscm
+[submodule "aws-cloudformation-resource-providers-rds"]
+	path = aws-cloudformation-resource-providers-rds
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-rds
+[submodule "aws-cloudformation-resource-providers-rds-proxy"]
+	path = aws-cloudformation-resource-providers-rds-proxy
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-rds-proxy
+[submodule "aws-cloudformation-resource-providers-sagemaker"]
+	path = aws-cloudformation-resource-providers-sagemaker
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-sagemaker
+[submodule "aws-cloudformation-resource-providers-ses"]
+	path = aws-cloudformation-resource-providers-ses
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-ses
+[submodule "aws-cloudformation-resource-providers-sns"]
+	path = aws-cloudformation-resource-providers-sns
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-sns
+[submodule "aws-cloudformation-resource-providers-ssm"]
+	path = aws-cloudformation-resource-providers-ssm
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-ssm
+[submodule "aws-cloudformation-resource-providers-sso"]
+	path = aws-cloudformation-resource-providers-sso
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-sso
+[submodule "aws-cloudformation-resource-providers-synthetics"]
+	path = aws-cloudformation-resource-providers-synthetics
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-synthetics
+[submodule "aws-cloudformation-resource-providers-timestream"]
+	path = aws-cloudformation-resource-providers-timestream
+	url = https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-timestream
